@@ -74,7 +74,7 @@
 
 ### 📊 **Contribution Graph**
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=vknan&theme=react-dark&hide_border=true&area=true)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vknan&theme=radical)
 
 ---
 
@@ -87,14 +87,6 @@
 
 ### 🎯 **Let's Collaborate**
 🔭 I’m always excited to collaborate on interesting and innovative projects. Feel free to reach out and let's build something **amazing** together!
-
----
-
-### 🔥 **Fun Stats**
-
-![Vijay Krishna's GitHub Activity](https://github-readme-stats.vercel.app/api/wakatime?username=vknan&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=vknan&theme=radical)
 
 ---
 
